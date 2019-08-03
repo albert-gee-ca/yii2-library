@@ -1,0 +1,21 @@
+{
+    "name": "albert-gee-ca/yii2-library",
+    "description": "Multifunctional Yii2 module for publishing articles",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","library","articles","seo"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Albert Gee",
+            "email": "albert.gee.ca@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "albert_gee_ca\\yii2_library\\": ""
+        }
+    }
+}
